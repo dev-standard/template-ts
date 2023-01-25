@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.2](https://github.com/dev-standard/template-ts/compare/0.1.1...0.1.2) (2023-01-25)
+
+
+### Bug Fixes
+
+* fix private val in package.json ([da196f9](https://github.com/dev-standard/template-ts/commit/da196f9c8fe5ac6e2e3c5a93ab9b6afff59f4c87))
+
 ## [0.1.1](https://github.com/dev-standard/template-ts/compare/0.1.0...0.1.1) (2023-01-25)
 
 
