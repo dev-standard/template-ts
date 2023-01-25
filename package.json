@@ -10,6 +10,11 @@
   },
   "author": "liting <luz.liting@gmail.com>",
   "license": "MIT",
+  "homepage": "https://github.com/dev-standard/template-ts#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dev-standard/template-ts.git"
+  },
   "keywords": [
     "template",
     "typescript"
