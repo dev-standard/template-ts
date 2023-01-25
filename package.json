@@ -2,7 +2,7 @@
   "name": "@liting-yes/template-ts",
   "type": "module",
   "version": "0.1.1",
-  "private": "false",
+  "private": false,
   "description": "a universal template for typescript",
   "publishConfig": {
     "access": "public",
