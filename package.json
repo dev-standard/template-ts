@@ -33,7 +33,7 @@
   "scripts": {
     "lint": "eslint .",
     "format": "eslint --fix .",
-    "commit": "git-cz",
+    "commit": "git add . && git-cz",
     "release": "release-it",
     "build": "unbuild",
     "prepare": "git config core.hooksPath .git/hooks/ && npx simple-git-hooks"
